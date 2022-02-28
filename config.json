@@ -1,0 +1,9 @@
+{
+	"name": "Microservice to email",
+	"description": "Microservice to manage emails",
+	"address": "localhost:50054",
+	"database": {
+		"driver": "postgres",
+		"url": "host= port= user=postgres password= dbname= sslmode=disable"
+	}
+}
